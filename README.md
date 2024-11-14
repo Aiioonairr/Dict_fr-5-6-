@@ -8,4 +8,4 @@ Dictionnaire de mots français de 5 caractères minimum.
 
 ## dico_fr_min
 
-Dictionnaire de mots français les plus utilisés de 5 caractères minimum.
+Dictionnaire de mots français les plus utilisés de 6 caractères minimum.
